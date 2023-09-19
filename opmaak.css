@@ -1,6 +1,20 @@
+body{
+background-color: #E4FFE1;
+}
+
 table{
     font-family: Arial, Helvetica, sans-serif;
 }
 table, th, td {
+   
     border:1px solid black;
+    width: 500px;
+    height: 23px;
+  }
+  header{
+    font-size: 100px;
+    background-color: #b2e99e;
+    width: 660px;
+    height: 100px;
+    text-align: center;
   }
